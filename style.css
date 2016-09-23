@@ -1,5 +1,12 @@
 #snake{
   border: 1px solid black;
-	margin-left: auto;
+  display: block;
+  margin-left: auto;
   margin-right: auto;
+}
+#scoreboard{
+  font-family: 'Lato', sans-serif;  
+  display: block;
+  text-align: justify;
+  padding-left: 575px;
 }
